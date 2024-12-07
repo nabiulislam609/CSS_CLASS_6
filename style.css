@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('./rsc/background.png');
+    /* background-color: pink; */
+}
+.nav{
+    background-color: pink;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+}
+.nav>a{
+    padding: 45px;
+    text-decoration: none;
+    color: black;
+}
